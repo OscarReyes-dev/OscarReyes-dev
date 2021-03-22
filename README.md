@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OscarReyes-dev
 - 👀 I’m interested in Web Development !
-- 🌱 I’m currently working on building front end templates and incorpariting them into Shopify Stores !
+- 🌱 I’m currently working on building front end templates and incorporating them into Shopify Stores !
 - 💞️ I’m looking to continue working in the world of Business/E-Commerce and using my dev skills to help out others !
