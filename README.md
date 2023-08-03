@@ -7,7 +7,7 @@ I'm a chill and cool web developer with a passion for creating amazing custom th
 I specialize in developing custom themes for Shopify, bringing creativity and functionality together to craft unique and user-friendly e-commerce experiences. My journey started as a Shopify theme developer, and since then, I've delved into the exciting world of front-end development, where I've been pushing boundaries and exploring new possibilities.
 
 🔧 Technologies & Tools:
-My toolkit includes a wide array of modern web development technologies. From HTML, CSS, and JavaScript to advanced front-end frameworks like React and Vue.js, I've got you covered. I also excel in liquid templating, ensuring seamless integration with Shopify's platform and delivering pixel-perfect designs.
+My toolkit includes a wide array of modern web development technologies. From HTML, CSS, and JavaScript, I've got you covered. I also excel in liquid templating, ensuring seamless integration with Shopify's platform and delivering pixel-perfect designs.
 
 🚀 My Projects:
 Check out my GitHub repositories to explore some of my exciting projects. You'll find custom Shopify themes, front-end experiments, and practical tools that demonstrate my expertise and creativity.
