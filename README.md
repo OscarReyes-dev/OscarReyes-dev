@@ -1,7 +1,7 @@
 Hey there! Welcome to my GitHub Profile!
 
 👋 Who am I?
-I'm a chill and cool web developer with a passion for creating amazing custom themes on Shopify. With a strong focus on Shopify theme development, I ventured into the world of web development and found my perfect fit in front-end development, where I've been honing my skills and creating stunning Shopify themes.
+I'm simply a web developer with a passion for creating amazing custom themes on Shopify. With a strong focus on Shopify theme development, I ventured into the world of web development and found my perfect fit in front-end development, where I've been honing my skills and creating stunning front end ecommerce experiences.
 
 🛠️ What I do?
 I specialize in developing custom themes for Shopify, bringing creativity and functionality together to craft unique and user-friendly e-commerce experiences. My journey started as a Shopify theme developer, and since then, I've delved into the exciting world of front-end development, where I've been pushing boundaries and exploring new possibilities.
