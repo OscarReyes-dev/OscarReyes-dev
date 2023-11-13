@@ -1,1 +1,1 @@
-Helping craft innovative and eye-catching Shopify storefronts 🎨
+Craft innovative and eye-catching Shopify storefronts 🎨
