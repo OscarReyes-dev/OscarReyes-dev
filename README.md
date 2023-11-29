@@ -1,1 +1,1 @@
-Craft innovative and eye-catching Shopify storefronts 🎨
+Helping merchants craft custom Shopify storefronts 🎨
